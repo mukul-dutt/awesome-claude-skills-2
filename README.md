@@ -108,6 +108,7 @@
 - **[youtube-full](https://github.com/ZeroPointRepo/youtube-skills)** - YouTube transcripts, search, channel data, and playlists via TranscriptAPI. 100 free credits.
 - [alpha-insights](https://github.com/Ericyoung-183/alpha-insights) - Structured business research skill with strategy frameworks, evidence grading, and report output.
 - [claude-persona](https://github.com/takechanman1228/claude-persona) - Build AI persona panels for customer research, interviews, concept tests, and executive reports.
+- [llm-mentions-skills](https://github.com/nikhonit/llm-mentions-skills) - Track brand mentions, ranks, and citations across ChatGPT, Claude, Gemini, and Perplexity — AI brand monitoring and GEO for any agent.
 
 
 ## 🔬 Scientific & Research Tools
