@@ -108,6 +108,7 @@
 - **[youtube-full](https://github.com/ZeroPointRepo/youtube-skills)** - YouTube transcripts, search, channel data, and playlists via TranscriptAPI. 100 free credits.
 - [alpha-insights](https://github.com/Ericyoung-183/alpha-insights) - Structured business research skill with strategy frameworks, evidence grading, and report output.
 - [claude-persona](https://github.com/takechanman1228/claude-persona) - Build AI persona panels for customer research, interviews, concept tests, and executive reports.
+- [social-media-api-skills](https://github.com/nikhonit/social-media-api-skills) - Agent skills for public social media data: TikTok, Instagram, LinkedIn, YouTube, X, Reddit and 30+ platforms via one API key. Zero-dependency Node.js, MIT-0.
 
 
 ## 🔬 Scientific & Research Tools
